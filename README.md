@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mrKagan
+- 👋 Hi, I’m Kagan Karabayazit, also known as @mrKagan 
 - 👀 I’m interested in Machine Learning, AI, Quantum Computing, Blockchain, AR & VR, Embedded Systems, WEB
 - 🌱 I’m currently learning <strong>PYTHON</strong>
 <!-- - 💞️ I’m looking to collaborate on ... -->
